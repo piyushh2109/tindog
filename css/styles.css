@@ -1,0 +1,167 @@
+#title {
+  background-color: #FF4C68;
+  text-align: left;
+}
+
+#cta {
+  background-color: #FF4C68;
+  padding: 100px;
+}
+
+#features {
+  padding: 150px 150px;
+  background-color: white;
+  position: relative;
+}
+
+#testimonials {
+  background-color: #ef8172;
+  color: #fff;
+}
+
+#press {
+  background-color: #ef8172;
+  padding-bottom: 2%;
+}
+
+#pricing {
+  padding: 100px;
+}
+
+#footer {
+  background-color: #fff;
+  padding: 80px 0;
+}
+
+.testimonial-text{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container-fluid {
+  padding: 3% 15% 7%;
+}
+
+body {
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #fff;
+  padding-bottom: 5%;
+}
+
+h2 {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.footer-text {
+  font-size: 3.2rem;
+  line-height: 1.5;
+  width: 100%;
+  color: #fff;
+  padding-bottom: 3%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.iphone {
+  transform: rotate(25deg);
+  width: 20%;
+  position: absolute;
+  left: 55%;
+}
+
+.icon {
+  color: #ef8172;
+  padding: 10% 0;
+}
+
+.octopus:hover {
+  color: #FF4C68;
+}
+
+.st {
+  font-size: 1.5rem;
+}
+
+.intro {
+  color: #8f8f8f;
+  font-size: 0.9rem;
+  padding: 0 20%;
+}
+
+.feature-box {
+
+}
+
+.navbar {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.2rem;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+}
+
+.nv {
+  padding-bottom: 7%;
+}
+
+.navbar-nav {
+  padding: 0 15%;
+}
+
+.nav-item {
+  margin: 0 5%;
+}
+
+.btn {
+  margin-right: 3%;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.carousel-item {
+  padding: 150px 150px;
+}
+
+.btn-block {
+  width: 100%;
+}
+
+.pricing-col {
+  padding: 3% 2%;
+}
+
+.Copyright {
+  color: #8f8f8f;
+  padding: 1%;
+  font-size: 0.8rem;
+}
+
+.footer-icon {
+  padding: 0.6%;
+}
+
+@media (max-width: 992px) {
+  #title {
+    text-align: center;
+  }
+
+  .iphone {
+    position: static;
+    transform: rotate(0);
+    width: 60%;
+  }
+}
